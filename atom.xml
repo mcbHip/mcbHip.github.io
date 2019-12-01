@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mcbhip.github.io/"/>
-  <updated>2019-11-30T08:29:34.679Z</updated>
+  <updated>2019-12-01T13:01:42.531Z</updated>
   <id>https://mcbhip.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World!</title>
-    <link href="https://mcbhip.github.io/2018/09/07/hello-world/"/>
-    <id>https://mcbhip.github.io/2018/09/07/hello-world/</id>
-    <published>2018-09-07T01:25:00.000Z</published>
-    <updated>2019-11-30T08:29:34.679Z</updated>
+    <title>矩阵乘法</title>
+    <link href="https://mcbhip.github.io/2019/12/01/matrix-multiply/"/>
+    <id>https://mcbhip.github.io/2019/12/01/matrix-multiply/</id>
+    <published>2019-12-01T12:04:42.000Z</published>
+    <updated>2019-12-01T13:01:42.531Z</updated>
     
     <summary type="html">
     
@@ -29,19 +29,49 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;矩阵乘法是针对矩阵做的基本运算之一，也是并发和并行编程课程中常采用的经典问题。如果你有一个 m 行 n 列的矩阵A，和另一个 n 行 s 列的矩阵 B，那么可以将两个矩阵相乘得到一个 m 行 s 列的矩阵
         
       
     
     </summary>
     
     
-      <category term="Markdown" scheme="https://mcbhip.github.io/categories/Markdown/"/>
+      <category term="并发编程学习" scheme="https://mcbhip.github.io/categories/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="Typora" scheme="https://mcbhip.github.io/tags/Typora/"/>
+      <category term="java" scheme="https://mcbhip.github.io/tags/java/"/>
     
-      <category term="Markdown" scheme="https://mcbhip.github.io/tags/Markdown/"/>
+      <category term="矩阵乘法" scheme="https://mcbhip.github.io/tags/%E7%9F%A9%E9%98%B5%E4%B9%98%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://mcbhip.github.io/2019/11/30/hello-world/"/>
+    <id>https://mcbhip.github.io/2019/11/30/hello-world/</id>
+    <published>2019-11-30T07:25:00.000Z</published>
+    <updated>2019-12-01T12:05:49.199Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;欢迎来到 mcbHip 的世界，在这里，我可以畅所欲言，因为这里仅仅属于我。今天让我们一起开始走进 一个coder 的世界。&lt;/p&gt;
+&lt;p&gt;首先不管学习哪种语言，我们首先要做的就是输出那段看起来平淡无奇，实则充满寓意的“hello,
+        
+      
+    
+    </summary>
+    
+    
+      <category term="入门博客" scheme="https://mcbhip.github.io/categories/%E5%85%A5%E9%97%A8%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="hello world" scheme="https://mcbhip.github.io/tags/hello-world/"/>
+    
+      <category term="programing" scheme="https://mcbhip.github.io/tags/programing/"/>
     
   </entry>
   
